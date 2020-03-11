@@ -10,6 +10,7 @@ Also, in case of offline game, there is configuration file stored on client appl
 
 - [Installation](#installation)
 - [License](#license)
+
 ---
 
 ## Installation
