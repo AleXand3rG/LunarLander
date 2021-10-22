@@ -15,11 +15,13 @@ Also, in case of offline game, there is configuration file stored on client appl
 
 ## Installation
 
-There is user manual in repo.
+There is a user manual in this repo.
 
 Server:
 - Windows: Run "run_WIN.bat" file within LunarLander-Client folder
 - macOS: Run "java -jar lunarlander-client.jar" command via Termianl within LunarLander-Client folder
+
+
 Client:
 - Windows: Run "run_WIN.bat" file within LunarLander-Server folder
 - macOS: Run "java -jar lunarlander-server.jar" command via Terminal within LunarLander-Server folder
