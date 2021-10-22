@@ -32,4 +32,4 @@ Client:
 
 ## License
 
-- Copyright 2020 © Aleksander Grzybowski.
+- © Copyright 2018-2021 Aleksander Grzybowski.
